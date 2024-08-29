@@ -15,6 +15,7 @@ cryptography==1.7.1
 cssselect==1.0.0
 cycler==0.10.0
 discord.py==0.16.0
+ffmpeg-python >= 0.2.0
 Flask==0.12
 future==0.16.0
 idna==2.2
