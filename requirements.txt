@@ -1,4 +1,4 @@
---upgrade pip
+pip==24.0
 aiohttp==3.8.2
 aiosocks==0.1.7
 async-timeout==1.1.0
