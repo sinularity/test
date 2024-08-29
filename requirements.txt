@@ -3,6 +3,7 @@ aiohttp==3.8.2
 aiosocks==0.1.7
 async-timeout==1.1.0
 beautifulsoup4==4.5.1
+setuptools==67.2.0
 bs4==0.0.1
 cairocffi==0.7.2
 CairoSVG==2.0.0
